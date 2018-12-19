@@ -1,5 +1,5 @@
 function breakOut(array, changeValue, stopValue) {
-  for (let i = i; i < length.array; i++) {
+  for (let i = 0; i < length.array; i++) {
     if (array[i] === stopValue) {
       break
   }
